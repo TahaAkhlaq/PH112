@@ -29,5 +29,4 @@ ax.grid()
 plt.legend(loc = 'upper left')
 ax.set(title='Problem 2.4c')
 
-# plt.savefig('Akhlaq Taha.pdf')
 plt.show() 
