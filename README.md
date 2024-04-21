@@ -7,8 +7,7 @@ This repository contains Python programs for homework assignments from PH112: Ph
 Static equilibrium, kinematics, Newton's Law's, non-inertial frames of reference, system of particles, work and energy, linear and angular momentum, rigid body motion, conservation laws, oscillation.
 
 ## Copyright & Licensing
-Copyright (C) 2024 Taha Akhlaq  
-<[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
+Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
 
 Distributed under the MIT License. See `LICENSE` for details.
 
